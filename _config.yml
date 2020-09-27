@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Anthony Ding
+tagline: / virtual home base
+url: https://anthonyding.me
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Anthony Ding
+  url: https://anthonyding.me
+  email: anthonyding@berkeley.edu
 
 # Custom vars
 version: 3.0.0

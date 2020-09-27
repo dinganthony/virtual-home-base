@@ -2,10 +2,10 @@
 layout: default
 title: Archive
 ---
-
+<!--
 # Archive
 
-Browse all posts by month and year.
+Here are all my blog posts:
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
@@ -16,3 +16,4 @@ Browse all posts by month and year.
     {% endfor %}
   </ul>
 {% endfor %}
+-->
