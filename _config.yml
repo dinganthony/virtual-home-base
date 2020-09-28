@@ -8,6 +8,12 @@ paginate_path: "/blog/page:num/"
 baseurl: ""
 permalink: pretty
 
+navpages:
+  - title: Blog
+    url: blog
+  - title: Resume
+    url: resume
+
 # Gems
 plugins:
   - jekyll-gist

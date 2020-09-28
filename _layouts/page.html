@@ -5,6 +5,7 @@ layout: default
 <article class="page">
   {% if page.title == "Home" %}
     <h1 class="page-title">Hello!</h1>
+  {% elsif page.title == "Resume" %}
   {% else %}
     <h1 class="page-title">{{ page.title }}</h1>
   {% endif %}

@@ -3,10 +3,45 @@
 // Super small header above the content for site name and short description.
 
 .masthead {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
   padding-top: var(--spacer);
   padding-bottom: var(--spacer);
   margin-bottom: var(--spacer-3);
+
+  .nav {
+    display: none;
+  }
+
+  @media (min-width: 30em) {
+    .nav {
+      display: inline-block;
+      padding-left: 0;
+      margin-right: 0.5rem;
+      margin-bottom: 0;
+      list-style: none;
+    }
+
+    .nav ul {
+      margin-block-start: 0;
+      margin-block-end: 1rem;
+    }
+  
+    .nav li {
+      display: inline-block;
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+    }
+  
+    .nav a {
+      color: var(--page-title-color);
+      font-weight: 400;
+    }
+  } 
 }
+
+
 
 .masthead-title {
   margin-bottom: 0;

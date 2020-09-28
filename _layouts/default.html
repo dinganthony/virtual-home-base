@@ -11,10 +11,17 @@
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
           {% if page.layout == "post" or page.title == "Blog" or page.title == "Archive" %} 
             <small>/ {{ site.blogname }}</small>
+          {% elsif page.title == "Resume" %}
+            <small>/ resume</small>
           {% else %}
             <small>/ {{ site.tagline }}</small>
           {% endif %}
         </h3>
+        <ul class="nav">
+          {% for item in site.navpages %}
+            <li><h3><small><a href="{{ site.baseurl }}/{{item.url}}">{{item.title}}</a></small></h3></li>
+          {% endfor %}
+        </ul>
       </header>
 
       <main>
