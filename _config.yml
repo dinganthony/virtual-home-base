@@ -1,8 +1,10 @@
 # Setup
 title: Anthony Ding
-tagline: / virtual home base
+tagline: virtual home
+blogname: anthology
 url: https://anthonyding.me
 paginate: 1
+paginate_path: "/blog/page:num/"
 baseurl: ""
 permalink: pretty
 

@@ -2,7 +2,7 @@
 layout: default
 title: Archive
 ---
-<!--
+
 # Archive
 
 Here are all my blog posts:
@@ -16,4 +16,3 @@ Here are all my blog posts:
     {% endfor %}
   </ul>
 {% endfor %}
--->
