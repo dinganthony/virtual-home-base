@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Takeaways from Undergraduate Teaching
+title: Undergrad Teaching
 ---
 
 1500 students, 70 instructors: that was a rough head count for UC Berkeley's Spring 2020 offering of [Data Structures](https://inst.eecs.berkeley.edu/~cs61b/sp20/), a lower division computer science course.
