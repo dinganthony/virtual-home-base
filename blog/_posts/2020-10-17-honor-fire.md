@@ -2,9 +2,8 @@
 layout: post
 title: To Honor a Fire
 ---
-*I wrote this piece in 2015 for a writing contest. Found it while cleaning out old Word documents on my computer. Decided to repost it here, five years later.*
-
-<br/>
+I wrote this piece in 2015 for a writing contest. Found it while cleaning out old Word documents on my computer. Decided to repost it here, five years later.
+{: .message }
 
 I could throw a rock in any direction and be guaranteed to hit a rice paddy. But I had no energy left to test this out. Unable to endure the enveloping heat, I crumpled to the ground, panting. My sooty hands pushed against the dried mud as a fatigued numbness seeped through my upper arms. Sweating was a chore, already routine, my white cotton t-shirt completely soaked. Muscles twitching, I eased into a resting position and slipped off my shoes, dangling my legs over the edge of the small cliff.
 
@@ -22,11 +21,11 @@ He pointed, past the endless rows of rice fields interspersed with small tributa
 
 Since I’d seen enough of these scenic landscapes in the desktop backgrounds on my Windows Vista computer, I simply nodded. I had no idea what ceremony he was talking about. But this scenery reminded me of a particular image of a valley selectively lightened by the sun, turning the field alternating colors of Ireland. It was the kind of picturesque place where I could throw down a blanket and immerse myself in a good book for hours, as long as it was written in English.
 
-<br/>
+---
 
 *Ms. Mei liked to make her students copy simple Chinese characters like 'shu cai' (vegetable) repeatedly on a grid resembling an archaic Excel spreadsheet. They reminded me of abstract art, or those color blindness tests at the optometrist where you’d say, “Yes it’s a turtle.” Or, “I think it’s number nine.” In my seven-year-old hand, the Ticonderoga pencil, its eraser half-chewed by a preschooler from the previous class, felt big and unnatural. Yet I sat there, hour after hour, drawing the same word in a kind of mindless monotony. Perfection was chased: “Make a straighter line.” “More curve here.” “Press your pencil harder.”*
 
-<br/>
+---
 
 Without any dust pollution or clouds, the morning fog cleared, and the sun bored into my back. We trekked through miles of rice fields, stepping over the sloshy irrigation wells and trodding a path beaten down by the farmers’ sandals over time. I imagined the rice farmers there, day after day, shouldering the burden of subsistence farming, their sunburnt skin, their wrinkly faces. It was a far cry from Shanghai, where we’d stopped the day before to take in the flashy Bund.
 
@@ -42,7 +41,7 @@ Dad cursed in his native language, and, using a large branch, hacked his way thr
 
 Between the flies and the heat, I was ready to lie down on a comfortable bed indoors. “I’m tired. Can we go back now?”
 
-<br/>
+---
 
 *My maternal grandmother’s apartment in Beijing was humble: cold concrete floors, unfinished walls, a black windowless oven from another era. Though I wanted to ignore the sounds of passersby in the busy city streets, the window was jammed halfway open. Her place was a few blocks from the Temple of Heaven, home to some of the cleanest air in the city.*
 
@@ -50,7 +49,7 @@ Between the flies and the heat, I was ready to lie down on a comfortable bed ind
 
 *My maternal grandmother was buried at the foot of the Great Wall. The heavily disjointed Wall reminded me of my extended family, with its faraway relatives in LA and Hong Kong and Europe. As a fifth grader, I’d learned enough geography to identify these places on a map, but not enough to feel a connection to them.*
 
-<br/>
+---
 
 My dad stopped to survey his surroundings, like a sailor with a sea astrolabe and a rudimentary map. Only the map was in his head. With one hand holding the large branch, another pointed at me, he said, “Your family did this ceremony very much. Many times. In my childhood, all the children knew how.” It sounded like the beginning of something, a lecture maybe, only he didn’t continue.
 
@@ -62,7 +61,7 @@ Towards the top of the second hill, the fog drifted over and then opened up agai
 
 I had rarely heard of this great-grandfather; he was too many generations from me, and my parents only really ever spoke of his accomplishments. I knew as much about my great-grandfather as I did about Hou Yi, the mythical archer hero in a Chinese fable who shot down nine out of ten suns, eventually keeping the last one for humankind. (In this heat, I wanted to get a bow and arrow and finish the job.) Just like Hou Yi, my great-grandfather was to me just a few Chinese characters made immortal in words.
 
-<br/>
+---
 
 *“What happened after that?” I asked.*
 
@@ -78,7 +77,7 @@ I had rarely heard of this great-grandfather; he was too many generations from m
 
 *“Well, later on, my son,” she said in Pekingese, her childhood dialect, “when your kids ask you for stories for a cultural project or a presentation, or maybe just to **remember**, you won’t have any to give them.”*
 
-<br/>
+---
 
 My dad knelt at the grave. First I thought he was tired, but then he said, “You have to kneel.” He motioned for me to join.
 
