@@ -1,6 +1,6 @@
 # Setup
 title: Anthony Ding
-tagline: virtual home
+tagline: anthony ding
 blogname: anthology
 url: https://anthonyding.me
 paginate: 1
@@ -9,6 +9,8 @@ baseurl: ""
 permalink: pretty
 
 navpages:
+  - title: About
+    url: 
   - title: Blog
     url: blog
   - title: Resume

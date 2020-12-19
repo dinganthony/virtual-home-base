@@ -4,10 +4,15 @@ layout: default
 
 <article class="page">
   {% if page.title == "Home" %}
-    <h1 class="page-title">Hello!</h1>
+    <h1 class="page-title">Anthony Ding</h1>
+    <br/>
   {% elsif page.title == "Resume" %}
+    <h1 style="text-align: center" class="page-title">Anthony Ding</h1>
+    <br/>
   {% else %}
     <h1 class="page-title">{{ page.title }}</h1>
   {% endif %}
   {{ content }}
 </article>
+
+<!--style="text-align: center"-->

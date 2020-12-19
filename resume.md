@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-PDF version: [Resume](../assets/Anthony_Ding.pdf)<br/>
+[Download PDF version](../assets/Anthony_Ding.pdf)<br/>
 Email: anthonyding \[at\] berkeley \[dot\] edu<br/>
 #: (408) 828-7396
 

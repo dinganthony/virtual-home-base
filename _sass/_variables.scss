@@ -21,16 +21,17 @@
   --green: #40c057;
   --yellow: #fab005;
   --orange: #fd7e14;
+  --vanilla: #fff5ee;
 
   --blue-300: #74c0fc;
   --blue-400: #4dabf7;
   --yellow-100: #fff3bf;
 
   --body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --body-font-size: 16px;
+  --body-font-size: 17px;
   --body-line-height: 1.5;
   --body-color: var(--gray-700);
-  --body-bg: #fff;
+  --body-bg: var(--vanilla);
 
   --link-color: var(--purple);
   --link-hover-color: var(--purple);
