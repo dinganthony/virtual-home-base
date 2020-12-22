@@ -3,10 +3,12 @@ layout: page
 title: Home
 ---
 
-Welcome to my website! I'm a third-year undergraduate studying [EECS @ UC Berkeley](https://eecs.berkeley.edu), passionate about creating technology to enrich people's lives. 
+Welcome to my website! I'm a third-year undergraduate studying [EECS @ UC Berkeley](https://eecs.berkeley.edu), passionate about solving problems to enrich people's lives.
 
-For instance, my friends and I built [Imprint](https://imprint.to), a new social blogging platform focused on content ownership and discovery. And I recently concluded an awesome summer internship at [UBTECH Robotics](https://ubtrobot.com) R&D, developing software to help robots see.
+Recently, my friends and I built [Imprint](https://imprint.to), a new social blogging platform focused on content ownership and discovery.
 
-On the side, I'm an avid coffee drinker, soccer (Liverpool) and esports (League of Legends) fan, and hobby writer. I mainly write on my blog, [Anthology](blog).
+At Berkeley, I'm involved in [Computer Science Mentors](https://csmentors.berkeley.edu), a student organization dedicated to enabling student success in CS. Here's a [list](teaching) of my teaching materials and resources.
+
+On the side, I write for my [blog](blog), one-trick Shen in League, and sacrifice sleep to watch Liverpool.
 
 Feel free to email me at anthonyding \[at\] berkeley \[dot\] edu or check out my [resume](resume)!

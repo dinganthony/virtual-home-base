@@ -13,12 +13,12 @@
             <small class="slash">/</small>
           {% if page.layout == "post" or page.title == "Blog" or page.title == "Archive" %} 
             <small>{{ site.blogname }}</small>
-          {% elsif page.title == "Resume" %}
-            <small>resume</small>
           {% elsif page.title == "Home" %}
             <small>about me</small>
+          {% elsif page.title == "Teaching" %}
+            <small>teaching @ berkeley</small>
           {% else %}
-            <small>{{ site.tagline }}</small>
+            <small>{{ page.title | downcase}}</small>
           {% endif %}
           </div>
         </h3>

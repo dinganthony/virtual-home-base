@@ -13,6 +13,8 @@ navpages:
     url: 
   - title: Blog
     url: blog
+  - title: Teaching
+    url: teaching
   - title: Resume
     url: resume
 
