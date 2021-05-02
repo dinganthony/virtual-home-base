@@ -3,26 +3,59 @@ var h = d.getHours();
 
 var theme;
 var next;
-if (h >= 2 && h < 6) {
-    theme = 'night';
-    next = "6 am";
-} else if (h >= 6 && h < 10) {
-    theme = 'sunrise';
-    next = "10 am";
-} else if (h >= 10 && h < 14) {
-    theme = 'midday';
-    next = "2 pm";
-} else if (h >= 14 && h < 18) {
-    theme = 'light';
-    next = "6 pm";
-} else if (h >= 18 && h < 22) {
-    theme = 'sunset';
-    next = "10 pm";
-} else if (h >= 22 || h < 2) {
-    theme = 'moonlight';
-    next = "2 am";
+var greeting;
+
+pickTheme = (hour) => {
+    if (hour >= 2 && hour < 6) {
+        return 'night';
+    } else if (hour >= 6 && hour < 10) {
+        return 'sunrise';
+    } else if (hour >= 10 && hour < 14) {
+        return 'midday';
+    } else if (hour >= 14 && hour < 18) {
+        return 'light';
+    } else if (hour >= 18 && hour < 22) {
+        return 'sunset';
+    } else {
+        return 'moonlight';
+    }
+}
+
+custom = window.localStorage.getItem('customTheme');
+if (custom) {
+    theme = custom;
+} else {
+    theme = pickTheme(h);
+}
+
+if (h >= 5 && h < 12) {
+    greeting = "Good morning";
+} else if (h >= 12 && h < 18) {
+    greeting = "Good afternoon";
+} else {
+    greeting = "Good evening";
 }
 document.getElementById("theme-display").innerHTML = theme;
 theme = theme.toLowerCase();
 document.getElementById("theme").classList.add(theme + '-theme');
-document.getElementById("next-theme").innerHTML = next;
+// document.getElementById("next-theme").innerHTML = next;
+greetingElement = document.getElementById("greeting");
+if (greetingElement != null) {
+    greetingElement.innerHTML = greeting;
+}
+
+changeTheme = (newTheme) => {
+    themeElement = document.getElementById("theme");
+    themeElement.setAttribute("class", "");
+    themeElement.classList.add(newTheme.toLowerCase() + '-theme');
+    document.getElementById("theme-display").innerHTML = newTheme;
+    window.localStorage.setItem('customTheme', newTheme);
+}
+
+removeTheme = () => {
+    var date = new Date();
+    var hour = d.getHours();
+    changeTheme(pickTheme(hour));
+    window.localStorage.removeItem('customTheme');
+}
+

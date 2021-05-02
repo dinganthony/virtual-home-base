@@ -15,4 +15,32 @@ footer {
   margin-bottom: var(--spacer-3);
   display: flex;
   justify-content: space-between;
+
+  // a {
+  //   color: var(--body-color);
+  // }
+}
+
+.theme-picker {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+  button {
+    display: block;
+    width: 200px;
+    height: 75px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: var(--body-color);
+    color: var(--body-color);
+    background-color: var(--body-bg);
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  button:hover {
+    background-color: var(--body-color);
+    color: var(--body-bg);
+  }
 }

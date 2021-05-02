@@ -37,7 +37,10 @@
           &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> Anthony Ding.
         </small>
         <small>
-          Current theme: <span id="theme-display"></span> (next theme @ <span id="next-theme"></span>).
+          current theme: <span id="theme-display"></span>
+          {% if page.title != "Themes" %}
+           (<a href="{{ site.baseurl }}/themes">pick theme</a>)
+          {% endif %}
         </small>
       </footer>
     </div>
