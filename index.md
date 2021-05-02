@@ -9,6 +9,6 @@ At Berkeley, I conduct research @ [Lawrence Berkeley National Lab](https://lbl.g
 
 I'm also a senior mentor for [Computer Science Mentors](https://csmentors.berkeley.edu), a student organization dedicated to enabling student success in CS. Here's a [repository](https://github.com/dinganthony/teaching) of my teaching materials and resources.
 
-On the side, I write for my [blog](blog), one-trick Shen in League, and sacrifice sleep to watch Liverpool. Previously, my friends and I built [Imprint](https://imprint.to), a new social blogging platform focused on content ownership and discovery.
+On the side, I write for my [blog](blog), one-trick Shen in League, and sacrifice sleep to watch Liverpool. Previously, my friends and I built [Imprint](https://imprint.to), a new social blogging platform.
 
 Feel free to email me at anthonyding \[at\] berkeley \[dot\] edu or check out my [resume](resume)!
