@@ -2,8 +2,6 @@
 layout: post
 title: To Honor a Fire
 ---
-I wrote this piece in 2015 for a writing contest. Found it while cleaning out old Word documents on my computer. Decided to repost it here, five years later.
-{: .message }
 
 I could throw a rock in any direction and be guaranteed to hit a rice paddy. But I had no energy left to test this out. Unable to endure the enveloping heat, I crumpled to the ground, panting. My sooty hands pushed against the dried mud as a fatigued numbness seeped through my upper arms. Sweating was a chore, already routine, my white cotton t-shirt completely soaked. Muscles twitching, I eased into a resting position and slipped off my shoes, dangling my legs over the edge of the small cliff.
 
