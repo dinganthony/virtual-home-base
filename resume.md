@@ -11,19 +11,37 @@ Email: anthonyding \[at\] berkeley \[dot\] edu<br/>
 
 ## Education
 **University of California, Berkeley** | *Aug 2018 - May 2022*<br/>
-B.S. Electrical Engineering and Computer Science, GPA: 3.92/4.0
+B.S. Electrical Engineering and Computer Science, GPA: 3.9/4.0
 
-Courses: Algorithms, Data Structures, Computer Architecture, Operating Systems, Security, Optimization, Discrete Math and Probability, Artificial Intelligence, Data Science<br/>
-Activities: Computer Science Mentors, Tau Beta Pi, Eta Kappa Nu
+**Coursework** 
+<br/>CS 61B: Data Structures
+<br/>CS 61C: Great Ideas of Computer Architecture
+<br/>CS 70: Discrete Mathematics and Probability Theory
+<br/>EECS 127: Optimization Models in Engineering
+<br/>CS 161: Computer Security
+<br/>CS 162: Operating Systems and Systems Programming
+<br/>CS 170: Efficient Algorithms and Intractable Problems
+<br/>CS 184: Computer Graphics and Imaging
+<br/>CS 188: Artificial Intelligence
+<br/>CS 189: Machine Learning
+<br/>Data 100: Principles and Techniques of Data Science
+
+**Campus Involvement**
+<br/>EECS 16A Senior Mentor, <a href="https://csmentors.berkeley.edu">Computer Science Mentors</a>
+<br/>Participant, <a href="https://urap.berkeley.edu">Undergraduate Research Apprentice Program</a>
+<br/>Course Tutor, CS 61B: Data Structures
+<br/>Computing Services Officer, <a href="https://hkn.eecs.berkeley.edu">Eta Kappa Nu, Mu Chapter</a>
+<br/>Academic Committee Member, <a href="https://www.stemed.online">StemEd</a>
+<br/>Member, <a href="https://tbp.berkeley.edu">Tau Beta Pi, CA-Alpha Chapter</a>
 
 <br/>
 
 ## Experience
-**Co-Founder** | Imprint.to | *July 2020 - Present*<br/>
-Built and marketed [Imprint](https://imprint.to), a social blogging platform focusing on content ownership and ease of use
-* Used React, Node.js, Express, and MongoDB to develop core features within engineering team of 3
-* Defined marketing and growth strategies using Mixpanel and HubSpot, reaching 500+ users in 2 months
-* Incubated at [Mozilla Builders “Fix the Internet” Incubator](https://builders.mozilla.community/) MVP Lab with $16k grant funding
+**Undergraduate Researcher** | Lawrence Berkeley National Lab | *Feb 2021 - Present*<br/>
+Applied graph neural networks (GNNs) to classify particle physics phenomena in Professor Haichen Wang’s lab
+* Developed software package to tailor DeepMind’s <a href="https://github.com/deepmind/graph_nets">Graph Nets</a> library for particle physics-focused graphs 
+* Trained GNNs to differentiate top quark events using ROOT data from the Large Hadron Collider
+* Created automated testing framework, project’s main documentation, and tutorial Jupyter notebooks
 
 **Software Engineering Intern** | UBTECH Robotics R&D | *May 2020 - August 2020*<br/>
 Designed and developed computer vision annotation framework for robotic arm dexterity experiments
@@ -40,21 +58,19 @@ Led team of 20 to build new [website](https://dev.hkn.mu) using Django, serving 
 <br/>
 
 ## Skills and Awards
-* React, Node.js, Express, NumPy, Pandas, SQL/Relational Databases, MongoDB, Django, Figma, Git
-* Languages: Python, C/C++, Java, Go, Assembly (x86, RISC-V), HTML/CSS, JavaScript
+* NumPy, Pandas, TensorFlow, SQL/Relational Databases, React, Node.js, Django, OpenGL, Figma, Git
+* Languages: Python, C/C++, Java, Go, Assembly (x86, RISC-V), HTML/CSS, JavaScript, GLSL
 * 3x USA Math Olympiad Qualifier - Recognized as top 200 precollegiate math students in USA
 
 <br/>
 
 ## Selected Projects
-**Pacman AI** | Python
-* Coded intelligent agents to play Pacman using expectimax, alpha-beta pruning, and Bayesian inference
-* Raised AI performance through classic reinforcement learning (approximate Q-learning, policy iteration)
+**Imprint.to** | React, Node.js, Express, MongoDB
+* Built Imprint, a social blogging platform focusing on content ownership, with engineering team of 3
+* Incubated at Mozilla Builders “Fix the Internet” Incubator MVP lab with $16k grant funding
+* Defined marketing and growth strategies using Mixpanel and HubSpot, reaching 500+ users in 2 months
 
-**Secure File Sharing System** | Go
-* Built a fully encrypted file sharing system where users can modify, share, and revoke files
-* Ensured authenticity, integrity, and security, even if main database were compromised by attackers
-
-**No-code Course Websites** | React, Node.js, Express, MongoDB
-* Currently developing a no-code website creator geared to help professors make course websites
-* Designing and wireframing product in Figma, taking into account conversations with Berkeley TAs
+**No-code Course Websites** | HTML, CSS, JavaScript, JQuery
+* Started a website creator geared towards helping professors make course websites without coding
+* Designed and wireframed product in Figma, using feedback from conversations with UC Berkeley TAs
+* Currently developing the main pipeline to convert drag-and-drop blocks to website structure
