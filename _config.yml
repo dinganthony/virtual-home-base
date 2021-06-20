@@ -10,7 +10,7 @@ permalink: pretty
 
 navpages:
   - title: About
-    url: 
+    url: about
   - title: Blog
     url: blog
   - title: Resume
