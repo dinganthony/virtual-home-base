@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I grew up in the San Francisco Bay Area, a short distance away from Apple's Infinite Loop campus. Living in the Silicon Valley, I've developed an appreciation for the impact of technology in our lives. I attended [Saratoga High School](https://www.saratogahigh.org/) in Saratoga, CA, where I was involved in various math and science competitions. After graduating high school, I moved up the 880 to the [University of California, Berkeley](https://berkeley.edu) to study EECS, where I could continue enjoying the intricacies and beauty of math while diving deep into the world of computer and software technology.
+A bit about me: I grew up in the San Francisco Bay Area, a short distance away from Apple's Infinite Loop campus. I attended [Saratoga High School](https://www.saratogahigh.org/) in Saratoga, CA, where I was involved in various math and science competitions. After graduating high school, I moved up the 880 to the [University of California, Berkeley](https://berkeley.edu) to study EECS, where I could continue enjoying the intricacies and beauty of math while diving deep into the world of computer and software technology.
 
 My current academic interests lie in software systems, data science, and machine learning. On campus, I'm a participant in the [Undergraduate Research Apprentice Program](https://urap.berkeley.edu/), conducting research at [Berkeley Lab](https://lbl.gov) under Professor Haichen Wang. My research investigates using graph neural networks to classify particle physics phenomena and events from data collected by CERN's Large Hadron Collider. 
 
@@ -29,11 +29,12 @@ In my free time, I riff and compose on my piano, one-trick Shen in *League of Le
     * *Ella Minnow Pea*, Mark Dunn
 * listening to: 
     * "Worldwide Choppers", Tech N9ne
-    * "Nightlight", Illenium
+    * "Nightlight", ILLENIUM
     * "Walking on a Dream", Empire of the Sun
 
 ### Find me on...
 
-* [Twitter](https://twitter.com/anthonypding)
-* [LinkedIn](https://www.linkedin.com/in/anthony-ding/)
-* [GitHub](https://github.com/dinganthony)
+* Twitter: [@anthonypding](https://twitter.com/anthonypding)
+* LinkedIn: [anthony-ding](https://www.linkedin.com/in/anthony-ding/)
+* GitHub: [dinganthony](https://github.com/dinganthony)
+* Email: anthonyding [at] berkeley [dot] edu
