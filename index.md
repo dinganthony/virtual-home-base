@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<span id="greeting"></span>, and welcome to my website! I'm a third-year undergraduate studying [EECS @ UC Berkeley](https://eecs.berkeley.edu) and an incoming SDE intern @ [Amazon](https://amazon.com).
+<span id="greeting"></span>, and welcome to my website! I'm a third-year undergraduate studying [EECS @ UC Berkeley](https://eecs.berkeley.edu) and an SDE intern @ [Amazon](https://amazon.com).
 
 At Berkeley, I conduct research @ [Lawrence Berkeley National Lab](https://lbl.gov) under Professor Haichen Wang. We're working on training graph neural networks on particle data from the Large Hadron Collider.
 
