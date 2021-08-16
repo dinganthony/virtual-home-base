@@ -3,12 +3,8 @@ layout: page
 title: Home
 ---
 
-<span id="greeting"></span>, and nice to meet you! I'm currently an SDE intern @ [Amazon](https://amazon.com) and a fourth-year undergraduate majoring in [EECS @ UC Berkeley](https://eecs.berkeley.edu). 
+My name is Anthony Ding, and I'm a fourth-year undergrad majoring in [EECS @ UC Berkeley](https://eecs.berkeley.edu). I conduct research @ [Berkeley Lab](https://lbl.gov) under Professor Haichen Wang, developing [graph neural networks](https://github.com/xju/root_gnn) tailored for particle physics. Previously, I've interned @ [Amazon](https://amazon.com) and [UBTECH Robotics](https://ubtrobot.com/).
 
-I conduct research @ [Berkeley Lab](https://lbl.gov) under Professor Haichen Wang. I work on a [suite](https://github.com/xju2/root_gnn) of graph neural networks tailored for particle physics.
+On the side, I mentor @ [Computer Science Mentors](https://csm.berkeley.edu) (a student organization providing guidance for Berkeley CS undergrads), run [Anthology](https://anthony.imprint.to) (my personal blog), and build [Imprint](https://imprint.to) (a social blogging platform focused on content ownership). In my free time, I like to [support Liverpool FC](blog), read, and [play chess](https://chess.com/member/ynotding).
 
-I'm also a senior mentor @ [Computer Science Mentors](https://csm.berkeley.edu). For my students, here's a [repository](https://github.com/dinganthony/teaching) of teaching materials I've written. 
-
-On the side, I've worked on [Imprint](https://imprint.to), a social blogging platform focused on content ownership and accessibility. Last summer, we incubated @ [Mozilla Builders](https://builders.mozilla.community/) MVP Lab.
-
-I've created six [themes](themes) for my website, so feel free to pick your favorite!
+Feel free to check out my [resume](resume), pick out your favorite [theme](themes), and [get in touch](contact).
