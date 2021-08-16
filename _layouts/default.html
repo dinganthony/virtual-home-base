@@ -24,7 +24,11 @@
         </h3>
         <ul class="nav">
           {% for item in site.navpages %}
+            {% if item.url contains "https://" %}
+            <li><h3><small><a href="{{item.url}}">{{item.title}}</a></small></h3></li>
+            {% else %}
             <li><h3><small><a href="{{ site.baseurl }}/{{item.url}}">{{item.title}}</a></small></h3></li>
+            {% endif %}
           {% endfor %}
           <li></li>
         </ul>

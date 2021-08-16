@@ -30,7 +30,7 @@ In my free time, I riff and compose on my piano, one-trick Shen in *League of Le
 * listening to: 
     * "Worldwide Choppers", Tech N9ne
     * "Nightlight", ILLENIUM
-    * "Walking on a Dream", Empire of the Sun
+    * "Electric", Alina Baraz
 
 ### Find me on...
 

@@ -37,40 +37,40 @@ B.S. Electrical Engineering and Computer Science, GPA: 3.9/4.0
 <br/>
 
 ## Experience
-**Undergraduate Researcher** | Lawrence Berkeley National Lab | *Feb 2021 - Present*<br/>
-Applied graph neural networks (GNNs) to classify particle physics phenomena in Professor Haichen Wang’s lab
-* Developed software package to tailor DeepMind’s <a href="https://github.com/deepmind/graph_nets">Graph Nets</a> library for particle physics-focused graphs 
-* Trained GNNs to differentiate top quark events using ROOT data from the Large Hadron Collider
-* Created automated testing framework, project’s main documentation, and tutorial Jupyter notebooks
+**Amazon** | Software Development Engineer Intern | *May 2021 - August 2021*<br/>
+Built visualization feature for Alexa conversations used by 30+ partner teams and 100+ engineers in production
+* Designed and implemented frontend and UI using MVC, conducted UIUX testing with customer groups
+* Created service-level APIs to route 50/sec of cross-team DynamoDB queries through one access point
+* Presented to Director, receiving praise for synthesizing project technical complexity at a high level
 
-**Software Engineering Intern** | UBTECH Robotics R&D | *May 2020 - August 2020*<br/>
-Designed and developed computer vision annotation framework for robotic arm dexterity experiments
+**Berkeley Lab** | Undergraduate Researcher | *Feb 2021 - August 2021*<br/>
+Developed and applied graph neural networks to classify particle physics events in Professor Haichen Wang’s lab
+* Implemented Python package to tailor DeepMind’s [Graph Nets](https://github.com/deepmind/graph_nets) for identifying Tau lepton decay events
+* Optimized training on ROOT data from the Large Hadron Collider using [Ray Tune](https://docs.ray.io/en/master/tune/index.html) hyperparameter tuning
+* Led initiative to document 25+ module functions from scratch through wikis and Jupyter notebooks
+
+**UBTECH Robotics** | Software Engineering Intern | *May 2020 - August 2020*<br/>
+Designed and implemented computer vision annotation framework for robotic arm dexterity experiments
 * Integrated hand manipulation/gripping physics tools into [LabelMe](https://github.com/wkentaro/labelme) annotation GUI using PyQt libraries
 * Built relational database system and C++ API to store annotated properties of grasped objects
-* Automated experimental data collection and visualization using NumPy with shell and Python scripts
-
-**Lead Developer** | Eta Kappa Nu Honor Society | *May 2019 - May 2020*<br/>
-Led team of 20 to build new [website](https://dev.hkn.mu) using Django, serving 300+ members, 5000+ students, and 50+ companies
-* Created candidate portal for prospective honor society members to track initiation requirements
-* Developed online exam bank to provide Berkeley EECS undergraduates with released practice tests
-* Designed industry relations pages for companies to schedule infosessions and order HKN resume books
+* Automated experimental data collection using NumPy and shell scripts, saving engineers 10 hours/week
 
 <br/>
 
 ## Skills and Awards
-* NumPy, Pandas, TensorFlow, SQL/Relational Databases, React, Node.js, Django, OpenGL, Figma, Git
-* Languages: Python, C/C++, Java, Go, Assembly (x86, RISC-V), HTML/CSS, JavaScript, GLSL
+* **Highly Proficient:** Python, Java, C/C++, JavaScript, NumPy, SQL/Relational Databases, React, Node.js, Git
+* **Proficient:** Go, Assembly (x86, RISC-V), AWS, Django, TensorFlow, OpenGL
 * 3x USA Math Olympiad Qualifier - Recognized as top 200 precollegiate math students in USA
 
 <br/>
 
 ## Selected Projects
-**Imprint.to** | React, Node.js, Express, MongoDB
-* Built Imprint, a social blogging platform focusing on content ownership, with engineering team of 3
+**Imprint** | React, Node.js, Express, MongoDB
+* Built [Imprint](https://imprint.to), a content ownership-focused social blogging platform, with team of 4
 * Incubated at Mozilla Builders “Fix the Internet” Incubator MVP lab with $16k grant funding
-* Defined marketing and growth strategies using Mixpanel and HubSpot, reaching 500+ users in 2 months
+* Defined growth strategies and marketed to popular bloggers, reaching 500+ users in a quarter
 
-**No-code Course Websites** | HTML, CSS, JavaScript, JQuery
-* Started a website creator geared towards helping professors make course websites without coding
-* Designed and wireframed product in Figma, using feedback from conversations with UC Berkeley TAs
-* Currently developing the main pipeline to convert drag-and-drop blocks to website structure
+**Eta Kappa Nu Honor Society Website** | Django
+* Led team of 20 to build new website, serving 300+ members, 5000+ students, and 25+ organizations
+* Oversaw initiative to enhance industry section, streamlining campus recruiting process for companies
+* Created candidate portal for 50+ prospective members per year to track initiation requirements
