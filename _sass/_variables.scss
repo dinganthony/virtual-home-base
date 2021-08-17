@@ -28,7 +28,6 @@
   --sunrise-bg: #fffaea;
 
   --midday-bg: #e6f0f2;
-  --midday-gold: #af991d;
   --midday-dark: #0e4588;
 
   --sunset-red: #e14b4c;
@@ -85,7 +84,7 @@
     --quote-color: var(--sunrise-text);
   }
 
-  .midday-theme {
+  .day-theme {
     --body-color: var(--gray-700);
     --body-bg: var(--midday-bg);
   
@@ -113,7 +112,7 @@
     --quote-color: var(--sunset-text);
   }
 
-  .moonlight-theme {
+  .night-theme {
     --body-color: var(--gray-300);
     --body-bg: var(--moonlight-bg);
   
@@ -126,7 +125,7 @@
     --border-color: rgba(255,255,255,.15);
   }
 
-  .night-theme {
+  .dark-theme {
     --body-color: var(--gray-300);
     --body-bg: var(--night-black);
 

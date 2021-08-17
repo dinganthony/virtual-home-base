@@ -7,17 +7,17 @@ var greeting;
 
 pickTheme = (hour) => {
     if (hour >= 2 && hour < 6) {
-        return 'night';
+        return 'dark';
     } else if (hour >= 6 && hour < 10) {
         return 'sunrise';
     } else if (hour >= 10 && hour < 14) {
-        return 'midday';
+        return 'day';
     } else if (hour >= 14 && hour < 18) {
         return 'light';
     } else if (hour >= 18 && hour < 22) {
         return 'sunset';
     } else {
-        return 'moonlight';
+        return 'night';
     }
 }
 

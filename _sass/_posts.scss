@@ -6,7 +6,7 @@
 .page,
 .post {
   margin-bottom: 4em;
-  text-align: justify;
+  text-align: left;
 
   li + li {
     margin-top: .25rem;
@@ -68,7 +68,7 @@
 }
 
 .blog-info {
-  text-align: justify;
+  text-align: left;
   hr {
     margin-bottom: var(--spacer-3);
   }
