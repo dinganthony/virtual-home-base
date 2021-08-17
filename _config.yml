@@ -12,7 +12,7 @@ navpages:
   - title: Blog
     url: https://anthony.imprint.to 
   - title: Resume
-    url: resume
+    url: assets/Anthony_Ding.pdf
   - title: Contact
     url: contact
 

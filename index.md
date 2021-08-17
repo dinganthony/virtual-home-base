@@ -7,4 +7,4 @@ My name is Anthony Ding, and I'm a fourth-year undergrad majoring in [EECS @ UC 
 
 On the side, I mentor @ [Computer Science Mentors](https://csm.berkeley.edu) (a student organization providing guidance for Berkeley CS undergrads), run [Anthology](https://anthony.imprint.to) (my personal blog), and build [Imprint](https://imprint.to) (a social blogging platform focused on content ownership). In my free time, I like to [support Liverpool FC](blog), read, and [play chess](https://chess.com/member/ynotding).
 
-Feel free to check out my [resume](resume), pick out your favorite [theme](themes), and [get in touch](contact).
+Feel free to check out my [resume]({{site.baseurl}}/assets/Anthony_Ding.pdf), pick out your favorite [theme](themes), and [get in touch](contact).
