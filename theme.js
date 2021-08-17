@@ -29,11 +29,11 @@ if (custom) {
 }
 
 if (h >= 5 && h < 12) {
-    greeting = "Good morning";
+    greeting = "Good morning!";
 } else if (h >= 12 && h < 18) {
-    greeting = "Good afternoon";
+    greeting = "Good afternoon!";
 } else {
-    greeting = "Good evening";
+    greeting = "Good evening!";
 }
 document.getElementById("theme-display").innerHTML = theme;
 theme = theme.toLowerCase();

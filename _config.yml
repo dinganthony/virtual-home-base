@@ -2,7 +2,7 @@
 title: Anthony Ding
 tagline: anthony ding
 blogname: anfield away from home
-url: https://dinganthony.github.io
+url: https://anthonydi.ng
 paginate: 1
 paginate_path: "/blog/page:num/"
 baseurl: ""
@@ -44,7 +44,7 @@ sass:
 # Specify the author for blog posts
 author:
   name: Anthony Ding
-  url: https://dinganthony.github.io
+  url: https://anthonydi.ng
   email: anthonyding@berkeley.edu
 
 # Custom vars
