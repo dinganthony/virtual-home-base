@@ -22,7 +22,7 @@
             </div>
           {% endif %}
         </h3>
-        <ul class="nav">
+        <!-- <ul class="nav">
           {% for item in site.navpages %}
             {% if item.url contains "https://" %}
             <li><h3><small><a href="{{item.url}}">{{item.title}}</a></small></h3></li>
@@ -31,7 +31,7 @@
             {% endif %}
           {% endfor %}
           <li></li>
-        </ul>
+        </ul> -->
       </header>
 
       <main>
@@ -40,12 +40,13 @@
 
       <footer class="footer">
         <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> Anthony Ding. Theme:
+          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> Anthony Ding. 
+          <!-- Theme:
           {% if page.title == "Themes" %}
           <span id="theme-display"></span>
           {% else %}
           <a href="{{ site.baseurl }}/themes"><span id="theme-display"></span></a>
-          {% endif %}
+          {% endif %} -->
         </small>
       </footer>
     </div>

@@ -25,17 +25,18 @@
   
   --sunrise-red: #e00202;
   --sunrise-text: #271616;
-  --sunrise-bg: #fffaea;
+  --sunrise-bg: #fffefb;
+  --new-sunrise-bg: #fffaea;
 
   --midday-bg: #e6f0f2;
   --midday-dark: #0e4588;
 
   --sunset-red: #e14b4c;
   --sunset-red-two: #E45E65;
-  --sunset-violet: #342d42;
-  --sunset-text: #e7d6cb;
+  --sunset-violet: #110820;
+  --sunset-text: #e7e0db;
 
-  --moonlight-bg: #080330;
+  --moonlight-bg: #050222;
   --moonlight-gold: #f8d560;
 
   --night-black: #05061d;
@@ -45,11 +46,11 @@
   --blue-400: #4dabf7;
   --yellow-100: #fff3bf;
 
-  --body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --body-font: "PT Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --body-font-size: 17px;
   --body-line-height: 1.5;
   --body-color: var(--gray-700);
-  --body-bg: var(--vanilla);
+  --body-bg: #fff;
 
   --link-color: var(--purple);
   --link-hover-color: var(--purple);
@@ -86,7 +87,7 @@
 
   .day-theme {
     --body-color: var(--gray-700);
-    --body-bg: var(--midday-bg);
+    --body-bg: #fff;
   
     --heading-color: var(--gray-900);
     --page-title-color: var(--gray-900);

@@ -35,20 +35,20 @@ if (h >= 5 && h < 12) {
 } else {
     greeting = "Good evening!";
 }
-document.getElementById("theme-display").innerHTML = theme;
+// document.getElementById("theme-display").innerHTML = theme;
 theme = theme.toLowerCase();
 document.getElementById("theme").classList.add(theme + '-theme');
 // document.getElementById("next-theme").innerHTML = next;
-greetingElement = document.getElementById("greeting");
-if (greetingElement != null) {
-    greetingElement.innerHTML = greeting;
-}
+// greetingElement = document.getElementById("greeting");
+// if (greetingElement != null) {
+//     greetingElement.innerHTML = greeting;
+// }
 
 changeTheme = (newTheme) => {
     themeElement = document.getElementById("theme");
     themeElement.setAttribute("class", "");
     themeElement.classList.add(newTheme.toLowerCase() + '-theme');
-    document.getElementById("theme-display").innerHTML = newTheme;
+    // document.getElementById("theme-display").innerHTML = newTheme;
     window.localStorage.setItem('customTheme', newTheme);
 }
 
