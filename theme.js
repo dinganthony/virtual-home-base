@@ -9,15 +9,15 @@ pickTheme = (hour) => {
     if (hour >= 2 && hour < 6) {
         return 'dark';
     } else if (hour >= 6 && hour < 10) {
-        return 'sunrise';
+        return 'light';
     } else if (hour >= 10 && hour < 14) {
-        return 'day';
+        return 'light';
     } else if (hour >= 14 && hour < 18) {
         return 'light';
     } else if (hour >= 18 && hour < 22) {
-        return 'sunset';
+        return 'dark';
     } else {
-        return 'night';
+        return 'dark';
     }
 }
 

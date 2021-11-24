@@ -3,8 +3,8 @@ layout: page
 title: Home
 ---
 
-My name is Anthony Ding, and I'm a fourth-year undergrad majoring in [EECS @ UC Berkeley](https://eecs.berkeley.edu). Previously, I interned @ [Amazon](https://amazon.com) and [UBTECH Robotics](https://ubtrobot.com/), and conducted research @ [Berkeley Lab](https://lbl.gov) under Professor Haichen Wang, developing [graph neural networks](https://github.com/xju/root_gnn) tailored for particle physics. 
+Hi! I'm Anthony Ding, a software engineer and student majoring in [EECS @ UC Berkeley](https://eecs.berkeley.edu). I love writing, whether it be [code](projects), [stories](https://nanowrimo.org/participants/anthonyding), [blog posts](https://anthony.imprint.to), or [sports analyses](tactical-press).
 
-On the side, I run my two blogs ([Anthology](https://anthony.imprint.to) and [Tactical Press](tactical-press)). Previously, I mentored @ [Computer Science Mentors](https://csm.berkeley.edu) (a student organization providing small group tutoring sessions for Berkeley CS undergrads), and built [Imprint](https://imprint.to) (a social blogging platform focused on content ownership). In my free time, I am an avid supporter of Liverpool FC, reader, and [Teamfight Tactics](https://lolchess.gg/profile/na/lumiant) player.
+Previously, I interned @ [Amazon](https://amazon.com) and [UBTECH Robotics](https://ubtrobot.com/), and conducted research @ [Berkeley Lab](https://lbl.gov) under Professor Haichen Wang, developing [graph neural networks](https://github.com/xju/root_gnn) to classify subatomic particle interactions. 
 
-Feel free to check out my [projects](projects) and [resume]({{site.baseurl}}/assets/Anthony_Ding.pdf), and [get in touch](contact).
+Let's [get in touch](contact)!
