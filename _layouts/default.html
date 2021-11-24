@@ -38,7 +38,7 @@
         {{ content }}
       </main>
 
-      <footer class="footer">
+      <!-- <footer class="footer">
         <small>
           &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> Anthony Ding. 
           <!-- Theme:
@@ -46,12 +46,15 @@
           <span id="theme-display"></span>
           {% else %}
           <a href="{{ site.baseurl }}/themes"><span id="theme-display"></span></a>
-          {% endif %} -->
+          {% endif %}
         </small>
-      </footer>
+      </footer> -->
     </div>
 
     <script src="{{ site.baseurl }}/theme.js"></script>
+
+    <script src="https://unpkg.com/typeit@8.0.7/dist/index.umd.js"></script>
+    <script src="type.js"></script>
 
     {% if site.ga_analytics %}
      <script>
