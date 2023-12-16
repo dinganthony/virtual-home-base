@@ -1,3 +1,5 @@
-# dinganthony.github.io
+# anthonyd.ing
 
-Personal website v5.0
+Anthony's personal website
+url: https://www.anthonyd.ing
+Contact: hello@anthonyd.ing

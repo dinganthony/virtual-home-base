@@ -9,8 +9,6 @@ baseurl: ""
 permalink: pretty
 
 navpages:
-  - title: Blog
-    url: https://anthony.imprint.to 
   - title: Resume
     url: assets/Anthony_Ding.pdf
   - title: Contact
@@ -44,8 +42,8 @@ sass:
 # Specify the author for blog posts
 author:
   name: Anthony Ding
-  url: https://anthonydi.ng
-  email: dinganthony@gmail.com
+  url: https://anthonyd.ing
+  email: hello@anthonyd.ing
 
 # Custom vars
 version: 3.0.0
