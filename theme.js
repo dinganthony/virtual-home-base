@@ -6,26 +6,7 @@ var next;
 var greeting;
 
 pickTheme = (hour) => {
-    if (hour >= 2 && hour < 6) {
-        return 'dark';
-    } else if (hour >= 6 && hour < 10) {
-        return 'light';
-    } else if (hour >= 10 && hour < 14) {
-        return 'light';
-    } else if (hour >= 14 && hour < 18) {
-        return 'light';
-    } else if (hour >= 18 && hour < 22) {
-        return 'dark';
-    } else {
-        return 'dark';
-    }
-}
-
-custom = window.localStorage.getItem('customTheme');
-if (custom) {
-    theme = custom;
-} else {
-    theme = pickTheme(h);
+    return hour >= 6 && hour < 18 ? 'light' : 'dark';
 }
 
 if (h >= 5 && h < 12) {
@@ -36,7 +17,6 @@ if (h >= 5 && h < 12) {
     greeting = "Good evening!";
 }
 // document.getElementById("theme-display").innerHTML = theme;
-theme = theme.toLowerCase();
 document.getElementById("theme").classList.add(theme + '-theme');
 // document.getElementById("next-theme").innerHTML = next;
 // greetingElement = document.getElementById("greeting");
