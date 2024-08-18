@@ -1,8 +1,8 @@
 new TypeIt("#typeit", {
     speed: 10,
     cursor: false,
-    strings: ["Hi! I'm Anthony Ding, and I'm a Masters student studying Computer Science at Columbia University.<br/>",
-              "Previously, I worked as a software engineer at Amazon Alexa and did my undergrad at UC Berkeley.",
+    strings: ["Hi! I'm Anthony Ding, and I'm a Masters student at Columbia University, studying Computer Science with a focus on machine learning.<br/>",
+              "Previously, I worked as a software engineer at Amazon Alexa and did my undergrad at UC Berkeley, majoring in Electrical Engineering and Computer Science.<br/>",
               "Let's get in touch:"
     ],
     afterComplete: async () => {
